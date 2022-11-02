@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nadjahagen.github.io/iarvr-blog/sitemap.xml

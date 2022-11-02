@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://nadjahagen.github.io/iarvr-blog/</loc>
+            <lastmod>2022-11-01T08:47:11+01:00</lastmod>
+            <priority>0</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nadjahagen.github.io/iarvr-blog/blog/</loc>
+            <lastmod>2022-11-01T08:47:11+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nadjahagen.github.io/iarvr-blog/blog/hello-world/</loc>
+            <lastmod>2022-11-01T08:47:11+01:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nadjahagen.github.io/iarvr-blog/authors/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nadjahagen.github.io/iarvr-blog/categories/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nadjahagen.github.io/iarvr-blog/series/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nadjahagen.github.io/iarvr-blog/tags/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+</urlset>
