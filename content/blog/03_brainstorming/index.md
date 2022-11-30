@@ -4,6 +4,7 @@ date: 2022-11-17T08:47:11+01:00
 draft: false
 summary: "As the goal of this course, we are supposed to implement a locomotion and an interaction technique in VR.
 I did some brainstorming and collected ideas."
+tags: ["XR", "IARVR"]
 ---
 
 As the goal of this course, we are supposed to implement a locomotion and an interaction technique in VR.

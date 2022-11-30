@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nadja Hagen</title>
-    <link>https://nadjahagen.github.io/iarvr-blog/</link>
-    <description>Recent content on Nadja Hagen</description>
+    <title>IARVR on Nadja Hagen</title>
+    <link>https://nadjahagen.github.io/iarvr-blog/tags/iarvr/</link>
+    <description>Recent content in IARVR on Nadja Hagen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Nov 2022 08:47:11 +0100</lastBuildDate><atom:link href="https://nadjahagen.github.io/iarvr-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 08:47:11 +0100</lastBuildDate><atom:link href="https://nadjahagen.github.io/iarvr-blog/tags/iarvr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Initial Project Setup</title>
       <link>https://nadjahagen.github.io/iarvr-blog/blog/06_project_setup/</link>
@@ -14,17 +14,6 @@
       
       <guid>https://nadjahagen.github.io/iarvr-blog/blog/06_project_setup/</guid>
       <description>Before starting with the actual implementation, I first wanted to test the parcours environment on my Quest.</description>
-      
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://nadjahagen.github.io/iarvr-blog/projects/</link>
-      <pubDate>Wed, 30 Nov 2022 08:47:11 +0100</pubDate>
-      
-      <guid>https://nadjahagen.github.io/iarvr-blog/projects/</guid>
-      <description>:sparkles: To be added soon :sparkles:</description>
-      
     </item>
     
     <item>
@@ -34,7 +23,6 @@
       
       <guid>https://nadjahagen.github.io/iarvr-blog/blog/05_design_refactoring/</guid>
       <description>After my first presentation of my project idea, I decided to further refactor the design.</description>
-      
     </item>
     
     <item>
@@ -44,7 +32,6 @@
       
       <guid>https://nadjahagen.github.io/iarvr-blog/blog/04_project-design/project-design/</guid>
       <description>I decided on using the metaphor of driving a flying car for my project implementation. Let&amp;rsquo;s have a look at my first thoughts on the design details.</description>
-      
     </item>
     
     <item>
@@ -54,7 +41,6 @@
       
       <guid>https://nadjahagen.github.io/iarvr-blog/blog/03_brainstorming/</guid>
       <description>As the goal of this course, we are supposed to implement a locomotion and an interaction technique in VR. I did some brainstorming and collected ideas.</description>
-      
     </item>
     
     <item>
@@ -64,28 +50,6 @@
       
       <guid>https://nadjahagen.github.io/iarvr-blog/blog/02_roll-a-ball/roll-a-ball/</guid>
       <description>As my first project in Unity, I implemented the simple game Roll-a-Ball and then recoded it into a VR game to be able to deploy it on the Quest.</description>
-      
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://nadjahagen.github.io/iarvr-blog/blog/01_hello-world/</link>
-      <pubDate>Wed, 02 Nov 2022 08:47:11 +0100</pubDate>
-      
-      <guid>https://nadjahagen.github.io/iarvr-blog/blog/01_hello-world/</guid>
-      <description>This blog was initially created to document all the project work done as part of the course Interaction in Virtual and Augmented Reality at TU Darmstadt in winter term 2022/23.</description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://nadjahagen.github.io/iarvr-blog/about/</link>
-      <pubDate>Tue, 01 Nov 2022 08:47:11 +0100</pubDate>
-      
-      <guid>https://nadjahagen.github.io/iarvr-blog/about/</guid>
-      <description>Hey! I&amp;rsquo;m Nadja - I study computer science at the Technical University of Darmstadt, where I&amp;rsquo;m currently pursuing my master&amp;rsquo;s degree.
-Publications&gt; Publications # Blog articles that were published on other websites:</description>
-      
     </item>
     
   </channel>

@@ -52,11 +52,11 @@ enableCodeCopy = true
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showTaxonomies = false
+  showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = false
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "email"]
+  sharingLinks = false
   showCards = true
 
 [list]
