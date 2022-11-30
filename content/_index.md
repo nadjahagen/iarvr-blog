@@ -1,1 +1,1 @@
-This is a documentation of all the project work done as part of the course 'Interaction in Virtual and Augmented Realities' in winter semester 2022/23 at TU Darmstadt. 
+Welcome! This is my personal portfolio page and blog, where I document projects I am working on and everything I am interested in. This page was initially created as part of the course _Interaction in Virtual and Augmented Reality_ in winter term 2022/23 at TU Darmstadt.

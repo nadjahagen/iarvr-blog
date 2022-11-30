@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Interaction in Virtual and Augmented Realities"
+title = "Nadja Hagen"
 # logo = "img/logo.png"
 description = "Project Documentation"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
   name = "Nadja Hagen"
   image = "img/blowfish_logo.png"
   # headline = "I'm only human"
-  bio = "M.Sc. Computer Science"
+  bio = "M.Sc. Computer Science student at TU Darmstadt"
   links = [
      { email = "mailto:nadja.hagen@stud.tu-darmstadt.de" },
   #   { link = "https://link-to-some-website.com/" },

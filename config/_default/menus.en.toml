@@ -15,10 +15,15 @@
   pageRef = "blog"
   weight = 10
 
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 30
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 20
 
 
 # -- Footer Menu --
@@ -28,11 +33,11 @@
 
 [[main]]
   pre = "github"
-  name = "GitHub"
+  #name = "GitHub"
   url = "https://github.com/nadjahagen"
-  weight = 30
+  weight = 40
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 20

@@ -12,23 +12,26 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+# = ["Blog", "About"]
 # robots = ""
 
+[header]
+  layout = "basic"
+
 [footer]
- # showMenu = true
+  showMenu = true
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, hero, card, background, custom
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts"
+  showRecentItems = 3
+  showMoreLink = true
+  showMoreLinkDest = "/iarvr-blog/blog"
 
 [article]
   showDate = true
@@ -40,7 +43,7 @@ enableCodeCopy = true
   heroStyle = "basic" # valid options: basic, big, background
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = true
+  showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
@@ -51,16 +54,31 @@ enableCodeCopy = true
   showTableOfContents = true
   showTaxonomies = false
   showAuthorsBadges = false
-  showWordCount = true
+  showWordCount = false
   showSummary = true
-  sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
+  sharingLinks = [ "linkedin", "twitter", "email"]
+  showCards = true
 
 [list]
+  #showBreadcrumbs = false
+  #showSummary = false
+  #showTableOfContents = false
+  #showCards = true
+  #cardView = true
+  #cardViewScreenWidth = true
+  #groupByYear = false
+  showHero = true
+  heroStyle = "basic" # valid options: basic, big, background
+  layoutBackgroundHeaderSpace = true
   showBreadcrumbs = false
-  showSummary = false
-  showTableOfContents = false
-  showCards = false
-  groupByYear = true
+  showSummary = true
+  showViews = false
+  showLikes = false
+  showTableOfContents = true
+  showCards = true
+  groupByYear = false
+  cardView = true
+  cardViewScreenWidth = false
 
 [sitemap]
   excludedKinds = []
